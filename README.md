@@ -239,10 +239,21 @@ Prepare a portfolio-ready, recruiter-friendly project
 - 🧠 **Problem-Solving & Logical Thinking**  
 - 📊 **Structured Program Design & Debugging**
 
+
+
 ---
 
 
+
+
+<br>
+
+
+
+
+
 <h2 align="center">⭐ Feel free to explore repos and give a star if you find them interesting</h2>
+
 
 
 
@@ -263,4 +274,86 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
+
+
 <br><br>
+
+
+
+
+
+<div align="center">
+  <a href="https://github.com/Dreamerol" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA_KOSEVA_77.PNG"
+      width="100%"
+      alt="Mihaela Koseva Banner"
+    />
+  </a>
+</div>
+
+
+
+
+
+<br><br>
+
+
+
+
+<table align="center" cellspacing="0" cellpadding="2">
+<tr>
+
+<td>
+<a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20LINKEDIN.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20GITHUB.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20PORTFOLIO.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol/CARDFOLIO" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20REPOSITORIES.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol/ALLSTATS" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20STATS.png" height="130">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/Dreamerol/RESUME" target="_blank">
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/Butoni%20RESUME.png" height="130">
+</a>
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+<br><br><br><br>
+
+
+
+
+
+
+
+
