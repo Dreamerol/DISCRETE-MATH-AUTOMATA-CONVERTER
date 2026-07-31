@@ -4,7 +4,6 @@
   Project converting a Nondeterministic Finite Automaton into a Deterministic Finite Automaton using C++
 </h1>
 
----
 
 
 
