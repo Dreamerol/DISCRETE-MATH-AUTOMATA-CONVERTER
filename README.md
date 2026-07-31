@@ -143,14 +143,6 @@ Gain experience with sets, maps, and structured logic
 Improve problem-solving and algorithmic thinking
 Prepare a portfolio-ready, recruiter-friendly project
 
----
-
-<div align="center">
-
-<h2>🖥️ Tech Stack</h2> 
-
-
-</div>
 
 
 ---
